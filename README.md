@@ -1,5 +1,5 @@
 # Hello World
-Ovo je prvi **dokument** izrađen s poveznicom [Na GutHub] (http://www.github.com).
+Ovo je prvi **dokument** izrađen s poveznicom [Na GitHub] (http://www.github.com).
 
 ## Naslov 2
 Ovo je naslov druge razine. [Sveučilište](http://iz.unizd.hr)
